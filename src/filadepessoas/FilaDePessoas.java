@@ -3,6 +3,7 @@ package filadepessoas;
 import Controller.GerenciadorFila;
 import java.util.Scanner;
 import view.Interfaces;
+import model.Pessoa;
 
 public class FilaDePessoas {
 
